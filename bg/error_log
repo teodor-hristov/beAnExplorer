@@ -1,0 +1,9 @@
+[02-Nov-2016 23:09:44 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhncom/public_html/bg/conf.php on line 2
+[02-Nov-2016 23:09:44 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/devhncom/public_html/bg/conf.php on line 3
+[02-Nov-2016 23:09:44 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/devhncom/public_html/bg/conf.php on line 3
+[02-Nov-2016 23:17:36 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhncom/public_html/bg/conf.php on line 2
+[02-Nov-2016 23:17:36 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/devhncom/public_html/bg/conf.php on line 3
+[02-Nov-2016 23:17:36 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/devhncom/public_html/bg/conf.php on line 3
+[02-Nov-2016 23:17:44 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/devhncom/public_html/bg/conf.php on line 2
+[02-Nov-2016 23:17:44 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/devhncom/public_html/bg/conf.php on line 3
+[02-Nov-2016 23:17:44 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/devhncom/public_html/bg/conf.php on line 3
